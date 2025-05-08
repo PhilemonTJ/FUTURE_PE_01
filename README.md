@@ -41,4 +41,4 @@ Contributions are welcome! If you have ideas for improvements or additional cont
 
 ## 📄 License
 
-This project is part of Future Interns Internship.
+This project is built as a task in Future Interns Internship.
